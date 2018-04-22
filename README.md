@@ -10,4 +10,4 @@ Don't delete anything that you didn't create.
 update 3/5/18 - We need more 3d models, AI blueprint coding, and another couple levels. We are working on a cave level currently.
 
 If you need help installing the game and connecting to Github, follow the directions below.
-<script src="https://gist.github.com/Chris123d/33643c3b0a9949b5d44e4466e3d2ac88.js"></script>
+https://gist.github.com/Chris123d/33643c3b0a9949b5d44e4466e3d2ac88
